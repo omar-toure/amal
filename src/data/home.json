@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "Les Trésors de l'Arisanat Sénégalais",
+    "subtitle": "Des produits 100% naturels, authentiques et préparés avec passion.",
+    "buttonText": "Découvrir les produits",
+    "backgroundImage": "ChatGPT_Image_18_févr._2026,_02_59_25.png"
+  },
+  "presentation": {
+    "title": "Bienvenue chez Amal",
+    "text": "Amal est née de notre amour pour les traditions et les saveurs uniques de l'Afrique. Nous proposons des produits de qualité supérieure, soigneusement sélectionnés pour vous offrir le meilleur de la nature. Des céréales authentiques aux encens enivrants, découvrez notre univers et laissez-vous transporter."
+  },
+  "sections": {
+    "popular": "Nos produits populaires",
+    "categories": "Nos categories",
+    "cereals": "🌾 Céréales & Dérivés",
+    "peanuts": "🥜 Produits à base d’arachide",
+    "drinks": "🌺 Boissons & poudres naturelles",
+    "incense": "⛩ Encens et produits traditionnels",
+    "reviews": "Ce que disent nos clients"
+  },
+  "cta": {
+    "title": "Vous avez une demande spéciale ?",
+    "text": "N'hésitez pas à nous contacter pour de gros volumes pour événements ou toutes autres questions.",
+    "buttonContact": "Nous contacter",
+    "buttonCatalog": "Voir le catalogue"
+  },
+  "categoryImages": {
+    "cereals": "unnamed.jpg",
+    "peanuts": "poudre_et_patte_d'arachide.png",
+    "drinks": "9a0f85b5-e509-4aa4-b35b-788ebbd6561b.png",
+    "incense": "encens.png",
+    "traditional": "tous les autres produits1.jpeg"
+  },
+  "bestsellers": {
+    "image": "nos_meilleurs_ventes.png"
+  },
+  "reference": {
+    "image": "bissap_verre1.jpg"
+  },
+  "reviews_data": [
+    {
+      "text": "Les produits sont vraiment de très bonne qualité. Le thiakry est frais et bien préparé, et le bissap a un goût authentique comme à la maison. Livraison rapide et service sérieux. Je recommande !",
+      "name": "Ibrahim"
+    },
+    {
+      "text": "J’ai commandé du pain de singe et de la pâte d’arachide. Franchement, ça m’a rappelé le goût du pays. Emballage propre et livraison fiable. Très satisfait.",
+      "name": "Abdou Rahim"
+    },
+    {
+      "text": "L’encens sent très bon et dure longtemps. Les produits sont naturels et bien emballés. On sent le sérieux derrière la marque.",
+      "name": "Fatima "
+    }
+  ],
+  "productsHero": {
+    "title": "Nos produits",
+    "subtitle": "Découvrez le meilleur de l'artisanat et de la nature africaine.",
+    "backgroundImage": "ChatGPT_Image_18_févr._2026,_02_59_25.png"
+  },
+  "categoriesHero": {
+    "title": "Nos Catégories",
+    "backgroundImage": "ChatGPT_Image_18_févr._2026,_02_59_25.png",
+    "subtitle": "Decouvrez nos differentes categories "
+  },
+  "contactHero": {
+    "title": "Contact",
+    "subtitle": "Contactez-nous",
+    "backgroundImage": "ChatGPT_Image_18_févr._2026,_02_59_25.png"
+  },
+  "aboutHero": {
+    "title": "Notre Histoire",
+    "subtitle": "Amal : L'authenticité au cœur de notre passion pour le terroir sénégalais.",
+    "backgroundImage": "ChatGPT_Image_18_févr._2026,_02_59_25.png"
+  },
+  "aboutSections": {
+    "storyTitle": "L'Origine d'Amal",
+    "storyText": "Fondée avec la volonté de partager les richesses de notre terre, Amal est bien plus qu'une marque d'alimentation. C'est un pont entre les traditions ancestrales du Sénégal et votre table. Notre aventure a commencé par une simple passion pour les saveurs authentiques, le thiakry fait maison, et le bissap fraîchement infusé.",
+    "storyImage": "a_propos.png",
+    "valuesTitle": "Nos Valeurs",
+    "values": [
+      {
+        "title": "Authenticité",
+        "text": "Nous respectons scrupuleusement les recettes traditionnelles."
+      },
+      {
+        "title": "Qualité",
+        "text": "Chaque grain, chaque feuille est sélectionné avec le plus grand soin."
+      },
+      {
+        "title": "Engagement",
+        "text": "Soutenir l'artisanat local et promouvoir une alimentation saine."
+      }
+    ],
+    "qualityTitle": "Notre Engagement Qualité",
+    "qualityText": "Nous travaillons main dans la main avec des producteurs locaux pour garantir des produits sans additifs chimiques, 100% naturels. De la récolte à la mise en sachet, chaque étape est contrôlée pour vous offrir une expérience gustative exceptionnelle.",
+    "qualityImage": "8734e706-8794-4fdf-a967-1b15e4efa2ad.png"
+  }
+}
